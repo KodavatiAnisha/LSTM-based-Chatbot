@@ -20,7 +20,6 @@ How to Run the Project
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 2. Install Dependencies
 bash
